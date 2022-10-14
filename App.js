@@ -8,8 +8,6 @@ const navigator= createStackNavigator(
     {
       Search: SearchScreen,
       ResultShow: ResultsShowScreen,
-
-    
     },
     {
       initialRouteName:'Search',//the initial screen
